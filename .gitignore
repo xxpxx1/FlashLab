@@ -1,0 +1,6 @@
+firmware/
+archives/
+logs/
+backups/
+__pycache__/
+*.pyc
